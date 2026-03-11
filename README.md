@@ -22,7 +22,7 @@ cd neat-starter
 npm install
 ```
 
-### 4\. Build the project to generate the first CSS
+### 4\. Build the project to generate the first CSS or build website (blog posts, etc.)
 
 This step is only required the very first time.
 
@@ -35,7 +35,3 @@ npm run build
 ```
 npm run start
 ```
-
-## Author
-
-Surjith S M ( [@surjithctly](https://surjithctly.in/) )
