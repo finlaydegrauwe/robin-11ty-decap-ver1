@@ -1,10 +1,12 @@
 ---
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Blog
-    url: "/blog"
+  - text: interviews
+    url: "/interviews"
+  - text: contact
+    url: "/contact"
+  - text: toekomstig
+    url: "/toekomstig"
+  - text: schrijver
+    url: "/schrijver"
+  - text: kaart
+    url: "/kaart"
