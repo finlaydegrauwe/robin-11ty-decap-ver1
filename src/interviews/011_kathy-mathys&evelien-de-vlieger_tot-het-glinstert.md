@@ -1,5 +1,5 @@
 ---
-thumbnail: /static/img/011_kathy-mathys&evelien-de-vlieger_tot-het-glinstert.md.jpg
+thumbnail: /static/img/011_kathy-mathys&evelien-de-vlieger_tot-het-glinstert.jpg
 cover: 
 title: 011_kathy-mathys&evelien-de-vlieger_tot-het-glinstert.md
 description: 

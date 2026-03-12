@@ -2,7 +2,7 @@
 
         {% for post in collections.interviews | reverse %}
             <a href="{{post.url}}">
-                <img src="{{ post.data.thumbnail }}" alt="{{ post.data.title }}" class="rounded-sm">
+                <img width="{{ ["211px", "221px", "231px", "245px", "252px"] | random }}" src="{{ post.data.thumbnail }}" alt="{{ post.data.title }}" class="rounded-sm" style="padding-right: {{ ["1px", "11px", "27px", "38px", "45px"] | random }};">
             </a>
         {% endfor %}
 
