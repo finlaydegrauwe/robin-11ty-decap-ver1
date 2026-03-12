@@ -59,7 +59,7 @@ collections:
         name: "contact"
         file: "src/contact/contact.md"
         fields:
-          - { name: "layout", widget: "hidden", default: "default" }
+          - { label: layout, name: layout, widget: hidden, default: "default" }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "Navigation"
         name: "items"
