@@ -1,7 +1,7 @@
 ---
-thumbnail: /static/img/003_maja-wolny_de-trein.jpg
+thumbnail: /static/img/009_patricia-jozef_gentlemen.jpg
 cover: 
-title: 003_maja-wolny_de-trein
+title: 009_patricia-jozef_gentlemen
 description: 
 interviewee: 
 date: 2023-11-23T12:03:22.508Z

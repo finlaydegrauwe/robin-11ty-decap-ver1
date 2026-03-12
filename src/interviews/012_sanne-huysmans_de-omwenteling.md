@@ -1,0 +1,10 @@
+---
+thumbnail: /static/img/012_sanne-huysmans_de-omwenteling.jpg
+cover: 
+title: 012_sanne-huysmans_de-omwenteling
+description: 
+interviewee: 
+date: 2023-11-23T12:03:22.508Z
+tags:
+  - interviews
+---

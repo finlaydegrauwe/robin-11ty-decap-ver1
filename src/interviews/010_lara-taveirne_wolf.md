@@ -1,7 +1,7 @@
 ---
-thumbnail: /static/img/003_maja-wolny_de-trein.jpg
+thumbnail: /static/img/010_lara-taveirne_wolf.jpg
 cover: 
-title: 003_maja-wolny_de-trein
+title: 010_lara-taveirne_wolf
 description: 
 interviewee: 
 date: 2023-11-23T12:03:22.508Z

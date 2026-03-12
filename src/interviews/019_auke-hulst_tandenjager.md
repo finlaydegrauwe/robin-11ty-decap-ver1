@@ -1,7 +1,7 @@
 ---
-thumbnail: /static/img/003_maja-wolny_de-trein.jpg
+thumbnail: /static/img/019_auke-hulst_tandenjager.jpg
 cover: 
-title: 003_maja-wolny_de-trein
+title: 019_auke-hulst_tandenjager
 description: 
 interviewee: 
 date: 2023-11-23T12:03:22.508Z

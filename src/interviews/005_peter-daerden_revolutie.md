@@ -1,7 +1,7 @@
 ---
-thumbnail: /static/img/003_maja-wolny_de-trein.jpg
+thumbnail: /static/img/005_peter-daerden_revolutie.jpg
 cover: 
-title: 003_maja-wolny_de-trein
+title: 005_peter-daerden_revolutie
 description: 
 interviewee: 
 date: 2023-11-23T12:03:22.508Z
