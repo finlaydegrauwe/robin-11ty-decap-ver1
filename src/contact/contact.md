@@ -1,5 +1,5 @@
 ---
-text: Ma hoezo
+layout: default
 ---
 Waar kan je me voor boeken:
 
