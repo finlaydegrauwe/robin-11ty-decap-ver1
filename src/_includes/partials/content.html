@@ -1,9 +1,0 @@
-    {% if collections.post %}
-
-        {% for post in collections.post | reverse %}
-            <a href="{{post.url}}" class="border rounded border-gray-200 hover:border-purple-400">
-                <img src="{{ post.data.cover }}" alt="{{ post.data.title }}" class="w-full object-cover mb-4">
-            </a>
-        {% endfor %}
-
-    {% endif %}

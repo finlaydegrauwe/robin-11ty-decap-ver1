@@ -1,0 +1,9 @@
+    {% if collections.interviews %}
+
+        {% for post in collections.interviews | reverse %}
+            <a href="{{post.url}}">
+                <img src="{{ post.data.thumbnail }}" alt="{{ post.data.title }}" class="rounded-sm">
+            </a>
+        {% endfor %}
+
+    {% endif %}

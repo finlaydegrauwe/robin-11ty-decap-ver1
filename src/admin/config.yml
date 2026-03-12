@@ -31,12 +31,13 @@ collections:
       - { label: "Geinterviewde auteur(s)", name: "interviewee", widget: "string" }
       - { label: "Datum", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "hidden", default: "interviews" }
   - label: "Schrijfsels"
     name: "schrijfsels"
     folder: "src/schrijfsels"
     create: true
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
