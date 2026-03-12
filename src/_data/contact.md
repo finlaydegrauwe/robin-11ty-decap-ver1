@@ -1,7 +1,10 @@
 ---
 contactinfo: |-
-  Waar kan je me voor boeken: (...)
+  Waar kan je me voor boeken:
 
+  * (...)
+  * 2
+  * 3
 
   Robin Van der Plaetsen
   robinvanderplaetsen@mailfence.com
