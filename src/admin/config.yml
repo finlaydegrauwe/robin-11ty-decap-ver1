@@ -12,12 +12,31 @@ public_folder: "/static/img"
 local_backend: true
 # publish_mode: editorial_workflow
 collections:
-  - label: "Blog"
-    name: "blog"
-    folder: "src/posts"
+  - label: "Interviews"
+    name: "interviews"
+    folder: "src/interviews"
     create: true
     editor:
       preview: false
+    fields:
+      - {
+          label: "Boekenrug",
+          name: "thumbnail",
+          widget: "image",
+          required: true,
+        }
+      - { label: "Foto", name: "cover", widget: "image", required: false }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Ondertitel (nodig?)", name: "description", widget: "string" }
+      - { label: "Geinterviewde auteur(s)", name: "interviewee", widget: "string" }
+      - { label: "Datum", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - label: "Schrijfsels"
+    name: "schrijfsels"
+    folder: "src/schrijfsels"
+    create: true
+    editor:
+      preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
@@ -29,7 +48,7 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["Tags", "created", "from", "config.yml"]
+        options: ["Zijn er tags nodig?", "Of niet?"]
   - label: "Settings"
     name: "settings"
     editor:
