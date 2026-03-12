@@ -57,10 +57,10 @@ collections:
     files:
       - label: "Contact"
         name: "contact"
-        file: "src/_data/contact.md"
+        file: "src/contact/contact.md"
+        
         fields:
-          - name: contactinfo
-            widget: "markdown"
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: "Navigation"
         name: "items"
         file: "src/_data/navigation.yaml"
