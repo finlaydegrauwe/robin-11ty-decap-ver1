@@ -57,7 +57,7 @@ collections:
     files:
       - label: "Contact"
         name: "contact"
-        file: "src/contact/contact.md"
+        file: "src/contact.md"
         fields:
           - { label: layout, name: layout, widget: hidden, default: "default" }
           - { label: "Body", name: "body", widget: "markdown" }
