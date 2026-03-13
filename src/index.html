@@ -11,7 +11,7 @@ intro: |-
 <div class="flex-grow container mx-auto flex flex-col justify-center items-center">
     <div class="grid grid-cols-3 h-full gap-8 mx-8">
         <div class="h-full flex flex-col justify-start items-start gap-4">
-            {{intro}}
+            {{ intro | markdownify | safe}}
         </div>
         <div class="h-full flex flex-col justify-start items-start gap-4">
             <img src="/static/img/robin_profielfoto.jpg" alt="Robin Van der Plaetsen" class="w-full object-cover">
