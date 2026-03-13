@@ -25,7 +25,7 @@ collections:
           widget: "image",
           required: true,
         }
-      - { label: "Foto", name: "cover", widget: "image", required: false }
+      - { label: "Foto", name: "cover", widget: "image", required: false, allow_multiple: true }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Ondertitel (nodig?)", name: "description", widget: "string" }
       - { label: "Geinterviewde auteur(s)", name: "interviewee", widget: "string" }

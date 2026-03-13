@@ -27,6 +27,17 @@ module.exports = function (eleventyConfig) {
     );
   });
 
+   // Sort by data files `date` field
+  eleventyConfig.addFilter("sortDataByDate", (obj) => {
+    const sorted = {};
+    Object.keys(obj)
+      .sort((a, b) => {
+        return obj[a].date > obj[b].date ? 1 : -1;
+      })
+      .forEach((name) => (sorted[name] = obj[name]));
+    return sorted;
+  });
+
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);
 
