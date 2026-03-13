@@ -63,13 +63,13 @@ collections:
           - { label: Title, name: title, widget: string }
           - { label: Path, name: path, widget: hidden, default: "home" }
           - { label: Intro, name: intro, widget: markdown }
-          - { label: "Body", name: "body", widget: "hidden" }
+          - { label: Body, name: body, widget: hidden }
       - label: "Contact"
         name: "contact"
         file: "src/contact.md"
         fields:
           - { label: layout, name: layout, widget: hidden, default: "default" }
-          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: Body, name: body, widget: markdown }
       - label: "Navigation"
         name: "items"
         file: "src/_data/navigation.yaml"
