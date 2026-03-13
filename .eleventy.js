@@ -4,6 +4,16 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier-next");   
 
 module.exports = function (eleventyConfig) {
+  const md = require("markdown-it")({
+    html: false,
+    breaks: true,
+    linkify: true,
+  });
+
+  eleventyConfig.addNunjucksFilter("markdownify", (markdownString) =>
+    md.render(markdownString),
+  );
+
   // Disable automatic use of your .gitignore
   eleventyConfig.setUseGitIgnore(false);
 
