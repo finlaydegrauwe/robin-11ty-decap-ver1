@@ -4,7 +4,7 @@ cover:
 title: 003_maja-wolny_de-trein
 description: 
 interviewee: 
-date: 2023-11-23T12:03:22.508Z
+date: 2023-11-24T12:03:22.508Z
 tags:
   - interviews
 ---
