@@ -13,6 +13,7 @@ local_backend: true
 # publish_mode: editorial_workflow
 collections:
   - label: "Interviews"
+    label_singular: "interview"
     name: "interviews"
     folder: "src/interviews"
     create: true
@@ -33,6 +34,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "hidden", default: "interviews" }
   - label: "Schrijfsels"
+    label_singular: "Schrijfsel"
     name: "schrijfsels"
     folder: "src/schrijfsels"
     create: true
