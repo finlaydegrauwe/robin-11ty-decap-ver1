@@ -52,6 +52,19 @@ collections:
         multiple: true
         create: true
         options: ["Zijn er tags nodig?", "Of niet?"]
+  - label: "Kaart"
+    name: "kaart"
+    create: true
+    editor:
+      preview: false
+    folder: "src/globetrotter"
+    fields:
+        - { label: 'Title', name: 'title', widget: 'string' } 
+        - { label: 'Map', name: 'map_selector', widget: 'map' } 
+        - { label: 'Image', name: 'image', widget: 'image', required: false }
+        - widget: "markdown"
+          label: "Tekst"
+          name: "tekst"
   - label: "Settings"
     name: "settings"
     editor:
