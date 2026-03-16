@@ -26,11 +26,16 @@ collections:
           widget: "image",
           required: true,
         }
-      - { label: "Foto", name: "cover", widget: "image", required: false, allow_multiple: true }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Ondertitel (nodig?)", name: "description", widget: "string" }
       - { label: "Geinterviewde auteur(s)", name: "interviewee", widget: "string" }
       - { label: "Datum", name: "date", widget: "datetime" }
+      - label: "Gallery"
+        label_singular: "foto"
+        name: "galleryImages"
+        widget: "list"
+        summary: '{{fields.image}}'
+        field: {label: Image, name: image, widget: image}
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "hidden", default: "interviews" }
   - label: "Toekomstig"
