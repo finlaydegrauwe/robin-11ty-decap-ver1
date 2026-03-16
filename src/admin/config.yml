@@ -28,14 +28,24 @@ collections:
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Ondertitel (nodig?)", name: "description", widget: "string" }
-      - { label: "Geinterviewde auteur(s)", name: "interviewee", widget: "string" }
+      - {
+          label: "Geinterviewde auteur(s)",
+          name: "interviewee",
+          widget: "string",
+        }
       - { label: "Datum", name: "date", widget: "datetime" }
       - label: "Gallery"
         label_singular: "foto"
         name: "galleryImages"
         widget: "list"
-        summary: '{{fields.image}}'
-        field: {label: Image, name: image, widget: image}
+        summary: "{{fields.image}}"
+        fields:
+          - { label: Image, name: image, widget: image }
+          - {
+              label: "Onzichtbare ondertitel afbeelding voor slechtzienden",
+              name: "alt",
+              widget: "string",
+            }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "hidden", default: "interviews" }
   - label: "Toekomstig"
@@ -49,7 +59,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Ondertitel (nodig?)", name: "description", widget: "string" }
       - { label: "Locatie", name: "location", widget: "string" }
-      - { label: "Geinterviewde auteur(s)", name: "interviewee", widget: "string" }
+      - {
+          label: "Geinterviewde auteur(s)",
+          name: "interviewee",
+          widget: "string",
+        }
       - { label: "Datum", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "hidden", default: "toekomst" }
@@ -80,12 +94,12 @@ collections:
       preview: false
     folder: "src/kaart"
     fields:
-        - { label: 'Title', name: 'title', widget: 'string' } 
-        - { label: 'Map', name: 'map_selector', widget: 'map' } 
-        - { label: 'Image', name: 'image', widget: 'image', required: false }
-        - widget: "markdown"
-          label: "Tekst"
-          name: "tekst"
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Map", name: "map_selector", widget: "map" }
+      - { label: "Image", name: "image", widget: "image", required: false }
+      - widget: "markdown"
+        label: "Tekst"
+        name: "tekst"
   - label: "Settings"
     name: "settings"
     editor:

@@ -1,6 +1,6 @@
 ---
 thumbnail: /static/img/002_koen-peeters_georges.jpg
-cover: /static/img/planets.jpg
+galleryImages: 
 title: Georges
 description: Wat een interview
 interviewee: Koen Peeters
