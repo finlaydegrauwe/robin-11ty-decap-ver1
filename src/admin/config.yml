@@ -33,8 +33,23 @@ collections:
       - { label: "Datum", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "hidden", default: "interviews" }
+  - label: "Toekomstig"
+    label_singular: "aankomend event"
+    name: "events"
+    folder: "src/toekomstig"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Ondertitel (nodig?)", name: "description", widget: "string" }
+      - { label: "Locatie", name: "location", widget: "string" }
+      - { label: "Geinterviewde auteur(s)", name: "interviewee", widget: "string" }
+      - { label: "Datum", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "hidden", default: "toekomst" }
   - label: "Schrijfsels"
-    label_singular: "Schrijfsel"
+    label_singular: "schrijfsel"
     name: "schrijfsels"
     folder: "src/schrijfsels"
     create: true
@@ -53,11 +68,12 @@ collections:
         create: true
         options: ["Zijn er tags nodig?", "Of niet?"]
   - label: "Kaart"
+    label_singular: "plaatsgerelateerd schrijfsel"
     name: "kaart"
     create: true
     editor:
       preview: false
-    folder: "src/globetrotter"
+    folder: "src/kaart"
     fields:
         - { label: 'Title', name: 'title', widget: 'string' } 
         - { label: 'Map', name: 'map_selector', widget: 'map' } 
@@ -102,5 +118,3 @@ collections:
         file: "src/_data/settings.yaml"
         fields:
           - { label: Name, name: name, widget: string }
-          - { label: Author, name: author, widget: string }
-          - { label: URL, name: url, widget: string }
