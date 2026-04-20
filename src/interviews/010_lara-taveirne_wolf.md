@@ -7,6 +7,8 @@ date: 2024-11-07T20:00:00.000+01:00
 galleryImages:
   - image: /static/img/img_20241107_204553.jpg
     alt: Lara Taveirne 7/11/24
+  - image: /static/img/img_20260420_150900.jpg
+    alt: Lara Taveirne 7/11/24
 tags:
   - interviews
 ---
