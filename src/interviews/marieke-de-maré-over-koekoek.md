@@ -14,6 +14,8 @@ galleryImages:
     alt: Marieke De Maré over Koekoek
   - image: /static/img/img_20260421_135954.jpg
     alt: Marieke De Maré over Koekoek
+  - image: /static/img/confituur-boekhandels-koekoek-marieke-de-mare-11122025-marcia-van-der-zwan-012.jpg
+    alt: Marieke De Maré over Koekoek
 tags: interviews
 ---
 Koekoek, het boekhandelsgeschenk van Confituurboekhandels in Vlaanderen: er is een heel klein antiquariaat in een grote stad. Er is een antiquair. Zijn naam is Idris. Na het overlijden van zijn vrouw schilderde hij de bloemmotieven van zijn slaapkamerbehang wit. Drie lagen. Er is een klok uit het Zwarte Woud met een vogeltje dat punctueel de tijdbegroet met een *koekoek*.  Er is een kerk, verderop, waar fresco’s van heel lang geleden worden blootgelegd. Daar is een dakloze man die een kassei uit de grond bikt om er enkele meters verderop een gat in de straat mee op te vullen. Er is een vrouw. Ze heeft rode lippen, en ze is haar kat kwijt. Er is een ideale temperatuur van min achttien graden waarop je een dier best bewaart als je op de taxidermist wacht. Dat mag gelden als een spoiler, maar eveneens als slechts het topje van de ijsberg. Want De Marés zinnen zijn ijsbergen, waaronder veel schuilgaat. 
