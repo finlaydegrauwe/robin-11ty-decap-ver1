@@ -1,6 +1,6 @@
 ---
 thumbnail: /static/img/003_maja-wolny_de-trein.jpg
-title: 003_maja-wolny_de-trein naar het imperium
+title: Maja Wolny over De trein naar het imperium
 description: "Hoe denkt de Rus? "
 interviewee: Maja Wolny
 date: 2024-02-21T20:00:00.000+01:00
