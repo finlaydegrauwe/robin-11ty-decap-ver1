@@ -7,10 +7,12 @@ date: 2025-03-20T20:00:00.000+01:00
 galleryImages:
   - image: /static/img/2026-04-21.png
     alt: Silvia Marijnissen over de Taiwanese dichter Ling Yu
+  - image: /static/img/img_20250316_191644.jpg
+    alt: Silvia Marijnissen over de Taiwanese dichter Ling Yu
 tags:
   - interviews
 ---
-In het kader van het zesde Made in China festival schreef ik een tekst voor de Poëziekrant ([Gedichten — Gedichten uit Dochters — Ling Yu - Poëziekrant) ](https://www.poeziekrant.be/artikels/gedichten-gedichten-uit-dochters-ling-yu)en kwam vertaalster en expert Chinese literatuur Silvia Marijnissen naar Gent, waar ik ze in het prachtige gebouw van de KANTL interviewde over Dochters, een bundel van de Taiwanese dichteres Ling Yu. Niet enkel is het de zevende Chinees-talige bundel die ze voor het poëziecentrum naar het Nederlands omzette, Dochters heeft ook in Taiwan momentum vergaard. Ling Yu (°1952) schreef in Dochters de neerslag van haar ervaringen tijdens het lange ziekbed van haar moeder. De zee als metafoor is nooit ver weg, het feilbare en toch verbazend flexibele geheugen ook.
+In het kader van het zesde Made in China festival schreef ik een tekst voor de Poëziekrant ([Gedichten — Gedichten uit Dochters — Ling Yu - Poëziekrant) ](https://www.poeziekrant.be/artikels/gedichten-gedichten-uit-dochters-ling-yu)en kwam vertaalster en expert Chinese literatuur Silvia Marijnissen naar Gent, waar ik ze in het prachtige gebouw van de KANTL interviewde over Dochters, een bundel van de Taiwanese dichter Ling Yu. Niet enkel is het de zevende Chinees-talige bundel die ze voor het poëziecentrum naar het Nederlands omzette, Dochters heeft ook in Taiwan momentum vergaard. Ling Yu (°1952) schreef in Dochters de neerslag van haar ervaringen tijdens het lange ziekbed van haar moeder. De zee als metafoor is nooit ver weg, het feilbare en toch verbazend flexibele geheugen ook.
 
 Wat Marijnissen betreft is Dochters een culminatiepunt van Ling Yu’s poëtica, want niet enkel komt de beschouwende, gelaten stijl van haar vaak in serie opgezette gedichten in golven terug, ook inhoudelijk ademen deze gedichten een gevoeligheid voor de natuur. Als Ling Yu met gedicht of trein haar toevlucht zoekt in de natuur, heeft dat niets vrijblijvend, maar geeft het uitdrukking aan een ademnood in het dichtbevolkte Taiwan. Met 24 miljoen mensen op een oppervlakte kleiner dan Nederland en een binnenland vol onbewoonbare bergstreken krijgt stedelijke claustrofobie dan ook snel vrij spel. 
 
