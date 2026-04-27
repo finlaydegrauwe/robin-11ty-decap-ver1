@@ -1,10 +1,16 @@
 ---
 thumbnail: /static/img/014_joseph-roth&jozef-wittlin_mijn-lwow&aardbeien.jpg
-galleryImages:
-title: 014_joseph-roth&jozef-wittlin_mijn-lwow&aardbeien
-description: 
-interviewee: 
-date: 2023-12-07T12:03:22.508Z
+title: Els Snick en Dirk Zijlstra over Joseph Roths 'Aardbeiden' & Jozef
+  Wittlins 'Mijn Lwow'
+description: De geworteldheid van de ontwortelden
+interviewee: Els Snick en Dirk Zijlstra
+date: 2025-03-06T20:00:00.000+01:00
+galleryImages: null
 tags:
   - interviews
 ---
+De schrijvers Joseph Roth en Jozef Wittlin hadden veel gemeen met elkaar. Hun Oost-Joodse identiteit en hun binnen het Oostenrijks-Hongaarse imperium gemarginaliseerde geboortestreek Galicië bijvoorbeeld. Zowel Brody, het gehucht waar Roth opgroeide en als inspiratie diende voor zijn nooit afgewerkte novelle Aardbeiden, als Lvov, de stad waar Wittlin zijn vormende jaren doorbracht, liggen vandaag in Oekraïne, een land waarvan de naam 'grensland' wil zeggen. Dat Oekraïne vandaag vecht om niet door een grotere mogendheid opgeslokt te worden zal voor Roth en Wittlin, beiden getuigen van de expansiedrift van Hitler, geen verrassing zijn. Ze zagen hun geboortegrond honderd jaar geleden al om de haverklap van identiteit veranderen. Lvov is in een kleine honderd jaar Pools, Oekraïens, en kort de hoofdstad van de 'West-Oekraïense volksrepubliek' geweest, en heeft meerdere namen gekend. Ook Brody is een een voorbeeld van de metamorfose van plaats en identiteit in Oost-Europa. De twee boeken waar ik met vertalers Els Snick (kenner, bekendste lansbreker voor Roths nalatenschap, en voorzitster van het Joseph Roth Genootschap) en Dirk Zijlstra (vertaler van Poolse literaire giganten zoals Olga Tokarczuk, en Franse schrijvers als Akira Mizubayashi) gaan beiden over de geworteldheid van de ontwortelden. 
+
+Wittlin en Roth ontmoetten elkaar tijdens filosofielessen op een Weense universiteit, wanneer een stroom WOI-vluchtelingen uit Gallicië naar de hoofdstad van de Oostenrijks-Hongaarse dubbelmonarchie vlucht. Wittlin zou Roths romans naar het Pools vertalen, Roth slaagt er in om Wittlin in het Nederlands te laten vertalen. Die Wereldoorlog zou aanvankelijk nog in een sfeer van opzwepende mobilisatie gebeuren. Samen zouden ze het medisch examen doorstaan om aan het front te vechten, maar het leger leerden ze kennen als een plek van hardvochtigheid en domme praat. Ze verliezen elkaar uit het oog, maar blijven corresponderen. Voor de rest van hun leven zouden ze zichzelf als vluchteling beschouwen. Hoewel Roth ook trots is over de plek waar hij opgegroeid is, liegt hij vaak over zijn heimat. Wanneer Wittlin aan de vooravond van de Tweede Wereldoorlog gevlucht was naar de Verenigde Staten en hem gevraagd werd een tekst te schrijven over Lvov aarzelde hij ook om zijn 'luchtig boekje over een loodzwaar onderwerp' te schrijven. Hij is dan ook resoluut in het voorwoord: 'Het zwak voor de plekken waar we onze jonge jaren doorbrachten is vaak gemaskeerde eigenliefde,' (was dat een onverholen sneer naar Zweigs 'de wereld van gisteren'?). 
+
+Beide schrijvers willen ver van de heimwee hun kamp opslaan, maar hoewel Roth al in 1939 sterft als banneling zullen ze tijdens hun leven de wereld en hun geboortegrond zien vervellen tot iets wat nog moeilijk als deel van hen kan beschouwd worden. Probeerde Roth die plek te bewaren door het als een multiculturele, verdraagzame gemeenschap te beschouwen waar iedereen alles onder elkaar regelt? Aardbeien leest als een poging om Galicië als een zonderlinge, mystieke, en ontroerend simpele maar oprechte plek te herinneren.
