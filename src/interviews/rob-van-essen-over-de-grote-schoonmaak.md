@@ -3,6 +3,7 @@ thumbnail: /static/img/messenger_creation_1e4f89cf-6aa5-4023-aa30-d1bde6a18683.j
 title: Rob Van Essen over De grote schoonmaak
 description: Het absurde is ondeelbaar
 interviewee: "Rob Van Essen "
+locatie: Walry
 date: 2026-04-02T19:30:00.000+02:00
 galleryImages:
   - image: /static/img/messenger_creation_0d905c04-fd87-4575-a497-30935272ddfd.jpeg
