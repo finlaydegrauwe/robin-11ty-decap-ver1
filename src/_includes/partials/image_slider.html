@@ -108,7 +108,8 @@
     <div class="relative w-full h-full" role="region" aria-roledescription="carousel" aria-label="Image Slider">
       <template x-for="(image, index) in images" x-bind:key="index">
         <img
-          x-bind:src="image"
+        loading="lazy"  
+        x-bind:src="image"
           x-bind:alt="`Image ${index + 1}`"
           @click="modalOpen = true"
           class="absolute inset-0 h-full m-auto object-contain cursor-pointer"
@@ -177,6 +178,7 @@
     <div class="relative w-full h-full max-w-7xl flex items-center justify-center">
       <template x-for="(image, index) in images" :key="'modal-' + index">
         <img
+        loading="lazy"
           x-bind:src="image"
           x-show="currentIndex === index"
           @click.stop
