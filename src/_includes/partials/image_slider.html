@@ -105,13 +105,13 @@
     x-on:keyup.right="next('button')"
     x-on:keyup.left="previous('button')"
   >
-    <div class="relative w-full h-full bg-gray-100/50" role="region" aria-roledescription="carousel" aria-label="Image Slider">
+    <div class="relative w-full h-full" role="region" aria-roledescription="carousel" aria-label="Image Slider">
       <template x-for="(image, index) in images" x-bind:key="index">
         <img
           x-bind:src="image"
           x-bind:alt="`Image ${index + 1}`"
           @click="modalOpen = true"
-          class="absolute inset-0 h-full w-full object-contain cursor-pointer"
+          class="absolute inset-0 h-full m-auto object-contain cursor-pointer"
           x-bind:class="{
             'transition duration-300 ease-in-out will-change-auto': transition,
             'z-1': currentIndex === index,
@@ -156,7 +156,7 @@
     x-show="modalOpen"
     @keydown.escape.window="modalOpen = false"
     @click="modalOpen = false"
-    class="fixed inset-0 z-[100] bg-black/95 flex items-center justify-center backdrop-blur-md cursor-zoom-out"
+    class="fixed inset-0 z-[100] bg-black/30 flex items-center justify-center backdrop-blur-md cursor-zoom-out"
     x-transition:enter="transition ease-out duration-300"
     x-transition:enter-start="opacity-0"
     x-transition:enter-end="opacity-100"
@@ -183,7 +183,7 @@
           x-transition:enter="transition ease-out duration-300"
           x-transition:enter-start="opacity-0 scale-95"
           x-transition:enter-end="opacity-100 scale-100"
-          class="absolute inset-0 w-full h-full object-contain p-4 md:p-16 cursor-default"
+          class="absolute inset-0 m-auto h-full object-contain p-4 md:p-16 cursor-default"
         />
       </template>
     </div>

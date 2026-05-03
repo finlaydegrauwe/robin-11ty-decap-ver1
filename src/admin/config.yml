@@ -84,12 +84,7 @@ collections:
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - widget: select
-        label: "tags"
-        name: "tags"
-        multiple: true
-        create: true
-        options: ["Zijn er tags nodig?", "Of niet?"]
+      - { label: "Tags", name: "tags", widget: "hidden", default: "schrijfsels" }
   - label: "Strapatsen"
     label_singular: "strapats"
     name: "strapatsen"
@@ -102,12 +97,7 @@ collections:
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - widget: select
-        label: "tags"
-        name: "tags"
-        multiple: true
-        create: true
-        options: ["Zijn er tags nodig?", "Of niet?"]
+      - { label: "Tags", name: "tags", widget: "hidden", default: "strapatsen" }
   - label: "Kaart"
     label_singular: "plaatsgerelateerd schrijfsel"
     name: "kaart"

@@ -3,8 +3,7 @@ title: Mamoetkind
 description: "Of: 'de geneugten van genetische manipulatie"
 author: Robin Van der Plaetsen
 date: 2026-03-12T11:54:59.864Z
-tags:
-  - from
+tags: schrijfsels
 ---
 
 

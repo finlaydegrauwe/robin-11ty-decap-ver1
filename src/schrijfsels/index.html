@@ -1,29 +1,24 @@
 ---
 layout: default
+eleventyExcludeFromCollections: true
 ---
 <section class="flex flex-col w-full gap-16 m-auto py-4">
-    hallo
-    {% set schrijfsels = collections.schrijfsels %}
-    {% for post in schrijfsels %}
-    <article id="{{ post.data.title | slug }}" 
-                     class="flex flex-col">
-                
-                <h2 class="font-bold text-3xl text-gray-900 mb-2">
-                    <a href="{{ post.url | url }}" class="hover:text-blue-600">
-                        {{ post.data.title if post.data.title else "Untitled" }}
-                    </a>
-                </h2>
+    {# Use the 'reverse' filter if you want the newest first #}
+    {% for post in collections.schrijfsels | reverse %}
+    <article id="{{ post.data.title | slug }}" class="flex flex-col">
+        <h2 class="font-bold text-3xl text-gray-900 mb-2">
+            {{ post.data.title }}
+        </h2>
 
-                {% if post.data.description %}
-                    <p class="text-lg text-gray-600 mb-3 italic">
-                        {{ post.data.description }}
-                    </p>
-                {% endif %}
+        {% if post.data.description %}
+        <p class="text-lg text-gray-600 mb-3 italic">
+            {{ post.data.description }}
+        </p>
+        {% endif %}
 
-                {% if post.content %}
-                    <div class="text-base text-gray-800">
-                        {{ post.content | safe }}
-                    </div>
-                {% endif %}
-            </article>
+        <div class="text-base text-gray-800">
+            {{ post.templateContent | safe }}
+        </div>
+    </article>
+    {% endfor %}
 </section>
