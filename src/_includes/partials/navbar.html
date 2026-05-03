@@ -1,5 +1,4 @@
-<div class="w-full p-4">
-    <nav class="flex items-center justify-center lg:justify-between flex-wrap p-4 container border-2 border-black" x-data="{ isOpen: false }" @keydown.escape="isOpen = false"  @click.away="isOpen = false">
+    <nav class="flex items-center justify-center lg:justify-between flex-wrap p-4 border-2 border-black" x-data="{ isOpen: false }" @keydown.escape="isOpen = false"  @click.away="isOpen = false">
         <!--Logo etc-->
         <div class="flex items-center px-16">
             <a href="/" class="text-indigo-500 font-bold text-lg">
@@ -7,7 +6,7 @@
         </div>
 
                 <!--Menu-->
-        <div class="grow lg:flex lg:items-center lg:w-auto text-center " :class="{ 'block shadow-3xl': isOpen, 'hidden': !isOpen }" x-show.transition="true">
+        <div class="grow lg:flex lg:items-center text-center " :class="{ 'block shadow-3xl': isOpen, 'hidden': !isOpen }" x-show.transition="true">
 
             {% if navigation.items %}
 
@@ -32,4 +31,3 @@
 
 
     </nav>
-</div>

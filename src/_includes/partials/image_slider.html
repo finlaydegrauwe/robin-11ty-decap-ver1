@@ -5,7 +5,7 @@
 <div
   x-data="{
     images: [],
-    modalOpen: false, // Tracks if the fullscreen modal is open
+    modalOpen: false,
 
     arrowsNavigation: true,
     dotsNavigation: false,
@@ -93,25 +93,25 @@
     },
   }"
   x-show="images.length > 0"
-  class="w-full"
+  class="w-full h-full"
 >
   <script type="application/json" id="{{ sliderId }}">
     {{ imageArray | dump | safe if imageArray else "[]" }}
   </script>
 
   <div
-    class="relative overflow-hidden focus:outline-hidden focus-visible:ring-4 focus-visible:ring-teal-400/60 rounded-md"
+    class="relative overflow-hidden rounded-md group w-full h-full min-h-[300px]"
     tabindex="0"
     x-on:keyup.right="next('button')"
     x-on:keyup.left="previous('button')"
   >
-    <div class="aspect-16/10" role="region" aria-roledescription="carousel" aria-label="Image Slider">
+    <div class="relative w-full h-full bg-gray-100/50" role="region" aria-roledescription="carousel" aria-label="Image Slider">
       <template x-for="(image, index) in images" x-bind:key="index">
         <img
           x-bind:src="image"
           x-bind:alt="`Image ${index + 1}`"
           @click="modalOpen = true"
-          class="absolute start-0 top-0 h-full w-full object-contain cursor-pointer"
+          class="absolute inset-0 h-full w-full object-contain cursor-pointer"
           x-bind:class="{
             'transition duration-300 ease-in-out will-change-auto': transition,
             'z-1': currentIndex === index,
@@ -130,9 +130,9 @@
     <button
       x-cloak
       x-show="images.length > 1 && arrowsNavigation && !(!loop && currentIndex === 0)"
-      x-on:click="previous('button')"
+      @click.stop="previous('button')"
       type="button"
-      class="group absolute -start-1 top-1/2 z-10 flex -translate-y-1/2 items-center rounded-e-md bg-zinc-900/60 py-5 ps-3 pe-2 text-white backdrop-blur-xs transition duration-150 ease-out hover:start-0 hover:bg-zinc-900/90 active:bg-zinc-900/75"
+      class="absolute left-2 top-1/2 z-10 -translate-y-1/2 flex items-center justify-center rounded-full p-2 text-white/80 bg-black/50 hover:bg-black/80 hover:text-white backdrop-blur-md transition-all shadow-sm"
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-5 rtl:rotate-180">
         <path fill-rule="evenodd" d="M11.78 5.22a.75.75 0 0 1 0 1.06L8.06 10l3.72 3.72a.75.75 0 1 1-1.06 1.06l-4.25-4.25a.75.75 0 0 1 0-1.06l4.25-4.25a.75.75 0 0 1 1.06 0Z" clip-rule="evenodd" />
@@ -142,9 +142,9 @@
     <button
       x-cloak
       x-show="images.length > 1 && arrowsNavigation && !(!loop && currentIndex === images.length - 1)"
-      x-on:click="next('button')"
+      @click.stop="next('button')"
       type="button"
-      class="group absolute -end-1 top-1/2 z-10 flex -translate-y-1/2 items-center rounded-s-md bg-zinc-900/60 py-5 ps-2 pe-3 text-white backdrop-blur-xs transition duration-150 ease-out hover:end-0 hover:bg-zinc-900/90 active:bg-zinc-900/75"
+      class="absolute right-2 top-1/2 z-10 -translate-y-1/2 flex items-center justify-center rounded-full p-2 text-white/80 bg-black/50 hover:bg-black/80 hover:text-white backdrop-blur-md transition-all shadow-sm"
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-5 rtl:rotate-180">
         <path fill-rule="evenodd" d="M8.22 5.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 0 1-1.06-1.06L11.94 10 8.22 6.28a.75.75 0 0 1 0-1.06Z" clip-rule="evenodd" />
@@ -155,7 +155,8 @@
     x-cloak
     x-show="modalOpen"
     @keydown.escape.window="modalOpen = false"
-    class="fixed inset-0 z-[100] bg-black/95 flex items-center justify-center backdrop-blur-sm"
+    @click="modalOpen = false"
+    class="fixed inset-0 z-[100] bg-black/95 flex items-center justify-center backdrop-blur-md cursor-zoom-out"
     x-transition:enter="transition ease-out duration-300"
     x-transition:enter-start="opacity-0"
     x-transition:enter-end="opacity-100"
@@ -164,8 +165,8 @@
     x-transition:leave-end="opacity-0"
   >
     <button
-      @click="modalOpen = false"
-      class="absolute top-4 right-4 md:top-8 md:right-8 z-[110] p-2 text-white/60 hover:text-white bg-white/10 hover:bg-white/20 rounded-full transition-colors"
+      @click.stop="modalOpen = false"
+      class="absolute top-4 right-4 md:top-8 md:right-8 z-[110] p-2 text-white/80 bg-black/50 hover:bg-black/80 hover:text-white backdrop-blur-md rounded-full transition-all"
       aria-label="Close fullscreen"
     >
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-8">
@@ -173,16 +174,16 @@
       </svg>
     </button>
 
-    <div class="relative w-full h-full max-w-7xl flex items-center justify-center" @click="modalOpen = false">
+    <div class="relative w-full h-full max-w-7xl flex items-center justify-center">
       <template x-for="(image, index) in images" :key="'modal-' + index">
         <img
           x-bind:src="image"
           x-show="currentIndex === index"
+          @click.stop
           x-transition:enter="transition ease-out duration-300"
           x-transition:enter-start="opacity-0 scale-95"
           x-transition:enter-end="opacity-100 scale-100"
-          class="absolute inset-0 w-full h-full object-contain p-4 md:p-16"
-          @click.stop
+          class="absolute inset-0 w-full h-full object-contain p-4 md:p-16 cursor-default"
         />
       </template>
     </div>
@@ -190,7 +191,7 @@
     <button
       x-show="images.length > 1"
       @click.stop="previous('button')"
-      class="absolute left-2 md:left-8 top-1/2 -translate-y-1/2 z-[110] p-3 text-white/60 hover:text-white bg-white/10 hover:bg-white/20 rounded-full transition-colors"
+      class="absolute left-4 md:left-8 top-1/2 -translate-y-1/2 z-[110] flex items-center justify-center rounded-full p-3 md:p-4 text-white/80 bg-black/50 hover:bg-black/80 hover:text-white backdrop-blur-md transition-all shadow-lg"
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-8 md:size-10">
         <path fill-rule="evenodd" d="M11.78 5.22a.75.75 0 0 1 0 1.06L8.06 10l3.72 3.72a.75.75 0 1 1-1.06 1.06l-4.25-4.25a.75.75 0 0 1 0-1.06l4.25-4.25a.75.75 0 0 1 1.06 0Z" clip-rule="evenodd" />
@@ -200,7 +201,7 @@
     <button
       x-show="images.length > 1"
       @click.stop="next('button')"
-      class="absolute right-2 md:right-8 top-1/2 -translate-y-1/2 z-[110] p-3 text-white/60 hover:text-white bg-white/10 hover:bg-white/20 rounded-full transition-colors"
+      class="absolute right-4 md:right-8 top-1/2 -translate-y-1/2 z-[110] flex items-center justify-center rounded-full p-3 md:p-4 text-white/80 bg-black/50 hover:bg-black/80 hover:text-white backdrop-blur-md transition-all shadow-lg"
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-8 md:size-10">
         <path fill-rule="evenodd" d="M8.22 5.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 0 1-1.06-1.06L11.94 10 8.22 6.28a.75.75 0 0 1 0-1.06Z" clip-rule="evenodd" />

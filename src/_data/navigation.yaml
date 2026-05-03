@@ -8,5 +8,7 @@ items:
     url: "/toekomstig"
   - text: schrijver
     url: "/schrijfsels"
+  - text: strapatsen
+    url: "/strapatsen"
   - text: kaart
     url: "/kaart"
