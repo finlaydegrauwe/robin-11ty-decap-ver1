@@ -5,7 +5,7 @@ Waar kan je me voor boeken:
 
 * Hiervoor
 * En hiervoor
-* En ook hiervoorsdf
+* En ook hiervoorsdfs
 
 Robin Van der Plaetsen
 
