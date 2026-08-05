@@ -14,9 +14,9 @@ galleryImages:
     alt: Bert Natter over Aan het einde van de oorlog
 tags: interviews
 ---
-Hij schreef één van mijn favoriete boeken van 2025. Via genadeloze infiltratie in het literaire establishment zorgde ik er dan ook voor dat Bert Natter voor Aan het einde van de oorlog zowel de Libris Literatuurprijs, en de Confituurboekhandelsprijs won. Ondertussen ben ik in gesprek met de Zweden voor een Nobelprijsnominatie.
+Hij schreef één van mijn favoriete boeken van 2025. Via genadeloze infiltratie in het literaire establishment zorgde ik er dan ook voor dat Bert Natter voor Aan het einde van de oorlog zowel de Libris Literatuurprijs als de Confituurboekhandelsprijs won. Ondertussen ben ik in gesprek met de Zweden voor een Nobelprijsnominatie.
 
-In afwachting had ik de eer de auteur in Halle te interviewen naar aanleiding van zijn bekroning met de Vlaamse boekhandelsprijs aka Confituur. 
+In afwachting daarvan had ik de eer de auteur in Halle te interviewen naar aanleiding van zijn bekroning met de Vlaamse boekhandelsprijs aka Confituur. 
 
 Het boek beschrijft enkele uren in en rond een concentratiekamp. Je hoort de Russen oprukken, maar de kampcommandant wil nog een feest voor de verjaardag van de führer houden. Karl Zehlendorffs carrière als gefnuikte concertpianist die weliswaar denkt vooruitgang te maken als oberstormfuhrer, maar wel onder de titel 'vervangend' en in 'het afvoerputje van het Rijk', is een allusie gebleken op de mislukkingen van Hitler zelf, die als kunstschilder werd geweigerd aan de academie in Wenen.
 
