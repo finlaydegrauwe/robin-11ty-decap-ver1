@@ -41,6 +41,8 @@ Eindeloos vertier is zo’n boek waarbij de ziekte van Joyce volgens marktonderz
 
 Geniet van de voorstelling. 
 
+
+
 Gert De Bie gaf een crashcourse Literaire Verwijzingen in de roman, en we hielden een panelgesprek over verslaving en entertainment (en hun overlappingen), alvorens ikzelf verkleed als Voetnoot 22 uit de roman volgende tekst voordroeg: 
 
 Goedenavond beste lezers, 
@@ -62,6 +64,8 @@ Als voetnoot 22 sta ik voor twee zaken die heel belangrijk zijn in het boek: afl
 ps: Wist u dat er in mijn flesje helemaal geen Seldanepillen zitten? Het is bedrog. Het is van kamergenoot Pemulis afgesnoepte Tenuate capsules die Troeltsch in het volle daglicht verstopt door het in een flesje Seldane te stoppen. Geniaal! Wilt u meer weten over Tenuate? Dat valt buiten mijn voetnootbevoegdheid, maar ik verwijs u graag door naar een collega
 
 \----------------------------------------------------------------------------
+
+
 
 Daar stopte het niet, want ik was ook zeer geïnspireerd door het Eschaton-spel dat in het boek op de tenniscampus wordt gespeeld. En als coach trad ik op: 
 
@@ -106,5 +110,7 @@ Als alle berekeningen zijn gemaakt en een natie(agglomeraat) als winnaar uit de 
 Ik dank jullie. Volgende week leer ik jullie hoe je doelgericht moet lobben. Vergeet dus jullie racket en goede luim niet. 
 
 \-----------------------------------------------------------------------
+
+
 
 Ik zou nu verder kunnen praten over deze twee wonderlijke avonden, maar mijn tekst is nu al schandalig lang voor deze simpele websitepost.
