@@ -7,23 +7,23 @@ interviewee: Robin Van der Plaetsen en Gert De Bie
 locatie: Boekhandel Walry in Gent, en De Hnita in Heist-op-den-Berg
 date: 2026-06-02T20:00:00.000+02:00
 galleryImages:
-  - image: file:///C:/Users/boekh/OneDrive/Documenten/IMG_20260602_170705.jpg
-    alt: Eindeloos Vertier
-  - image: file:///C:/Users/boekh/OneDrive/Documenten/IMG_20260602_202851.jpg
-    alt: Eindeloos Vertier
-  - image: file:///C:/Users/boekh/OneDrive/Documenten/IMG_20260616_203107.jpg
-    alt: Eindeloos Vertier
-  - image: file:///C:/Users/boekh/OneDrive/Documenten/IMG_20260616_220333.jpg
-    alt: Eindeloos Vertier
-  - image: file:///C:/Users/boekh/OneDrive/Documenten/IMG_20260602_195858.jpg
-    alt: Eindeloos Vertier
-  - image: file:///C:/Users/boekh/OneDrive/Documenten/IMG_20260616_203107.jpg
-    alt: Eindeloos Vertier
-  - image: file:///C:/Users/boekh/OneDrive/Documenten/Messenger_creation_A0B72166-57AB-476F-8062-E66B53BCA859.jpeg
-    alt: Eindeloos Vertier
-  - image: file:///C:/Users/boekh/OneDrive/Documenten/IMG_20260616_194213.jpg
-    alt: Eindeloos Vertier
   - image: /static/img/messenger_creation_a0b72166-57ab-476f-8062-e66b53bca859.jpeg
+    alt: Eindeloos vertier
+  - image: /static/img/img_20260602_170705.jpg
+    alt: Eindeloos vertier
+  - image: /static/img/img_20260616_203107.jpg
+    alt: Eindeloos vertier
+  - image: /static/img/img_20260602_170705.jpg
+    alt: Eindeloos vertier
+  - image: /static/img/img_20260602_195858.jpg
+    alt: Eindeloos vertier
+  - image: /static/img/img_20260602_202851.jpg
+    alt: Eindeloos vertier
+  - image: /static/img/img_20260602_132059.jpg
+    alt: Eindeloos vertier
+  - image: /static/img/img_20260616_194213.jpg
+    alt: Eindeloos vertier
+  - image: /static/img/img_20260616_220333.jpg
     alt: Eindeloos vertier
 tags: interviews
 ---
