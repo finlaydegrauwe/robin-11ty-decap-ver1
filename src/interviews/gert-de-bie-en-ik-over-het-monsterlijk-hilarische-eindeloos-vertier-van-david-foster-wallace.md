@@ -23,6 +23,8 @@ galleryImages:
     alt: Eindeloos Vertier
   - image: file:///C:/Users/boekh/OneDrive/Documenten/IMG_20260616_194213.jpg
     alt: Eindeloos Vertier
+  - image: /static/img/messenger_creation_a0b72166-57ab-476f-8062-e66b53bca859.jpeg
+    alt: Eindeloos vertier
 tags: interviews
 ---
 Een grenzeloze grol, een eindeloos vertier, er waren wel meer titels waar vertaler Robert-Jan Henkes aan dacht toen hij Infinite Jest, het notoire boek van de Amerikaanse schrijver annex ex-proftennisser David Foster Wallace, vertaalde. Meer dan duizend pagina's en een dikke achthonderd voetnoten telt het boek. Dertig jaar zijn gepasseerd sinds het origineel en nu ligt daar dan de Nederlandse vertaling. Samen met collega boekhandelaar Gert De Bie zette ik een op het breinsplijtende boek gebaseerde theatervoorstelling op poten die geheel uit voetnoten, lol en sérieux bestond. Een heuse setlist eigenlijk! Dat alles onder de noemer "Wie is bang van Eindeloos Vertier?", voorgedragen in juni in Gent en Heist-op-den-Berg
