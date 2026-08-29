@@ -3,12 +3,11 @@ thumbnail: /static/img/009_patricia-jozef_gentlemen.jpg
 title: Patricia Jozef over Gentlemen
 description: Hoe deelbaar is liefde?
 interviewee: Patricia Jozef
+locatie: De Hortus Conclusus van Boekhandel Walry
 date: 2024-06-29T16:00:00.000+02:00
 galleryImages:
   - image: /static/img/screenshot_20240629-222638_messenger.jpg
     alt: Patricia Jozef over Gentleman
-  - alt: Patricia Jozef over Gentleman
-    image: /static/img/img_20260420_165401.jpg
 tags:
   - interviews
 ---
