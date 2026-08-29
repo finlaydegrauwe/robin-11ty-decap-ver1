@@ -3,10 +3,9 @@ thumbnail: /static/img/002_koen-peeters_georges.jpg
 title: Koen Peeters over Georges
 description: of de eindeloze voordelen van associatief schrijven
 interviewee: Koen Peeters
+locatie: Boekhandel Walry
 date: 2023-11-07T20:00:00.000+01:00
 galleryImages:
-  - image: /static/img/screenshot_20231112-122000_instagram.jpg
-    alt: Koen Peeters over Georges
   - image: /static/img/screenshot_20231112-121950_instagram.jpg
     alt: Koen Peeters over Georges
 tags:
