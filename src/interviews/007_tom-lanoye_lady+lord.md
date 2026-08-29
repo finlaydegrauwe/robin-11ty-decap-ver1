@@ -3,12 +3,11 @@ thumbnail: /static/img/007_tom-lanoye_lady+lord.jpg
 title: Tom Lanoye over de Shakespeare-herwerking Lady + Lord Macbeth
 description: Veel bloed, wreedheid en duisternis
 interviewee: Tom Lanoye
+locatie: Atelier 74, Gent
 date: 2024-05-02T20:00:00.000+02:00
 galleryImages:
   - image: /static/img/screenshot_20240503-100037_messenger.jpg
     alt: Tom Lanoye over Lady+Lord Macbeth
-  - alt: Tom Lanoye over Lady+Lord Macbeth
-    image: /static/img/img_20260420_163122.jpg
 tags:
   - interviews
 ---
