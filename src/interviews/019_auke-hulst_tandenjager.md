@@ -3,13 +3,12 @@ thumbnail: /static/img/019_auke-hulst_tandenjager.jpg
 title: Auke Hulst over Tandenjager
 description: We zijn bijna allemaal iemands grondstoffen
 interviewee: Auke Hulst
+locatie: Boekhandel Walry
 date: 2025-05-28T20:00:00.000+02:00
 galleryImages:
   - image: /static/img/messenger_creation_5e0b90ee-b0f8-48bf-b0c0-2c04b33bb31b.jpeg
     alt: Auke Hulst over Tandenjager
   - image: /static/img/messenger_creation_c4bfbe06-6d57-459d-8dc8-cd9b588d613a.jpeg
-    alt: Auke Hulst over Tandenjager
-  - image: /static/img/img_20250528_224034.jpg
     alt: Auke Hulst over Tandenjager
 tags:
   - interviews
