@@ -21,4 +21,4 @@ Het is een titel die evenzeer had kunnen dienen voor zijn nieuwste roman Tandenj
 
 Wat mij betreft is Hulst een van de groten in ons taalgebied. Het was dus een eer om hem te interviewen en te vragen naar de relevantie van de historische roman voor vandaag, de vraag of sociaal stijgen samen gaat met klassenverraad, uitbuiting onvermijdelijk is, en hoe Hulsts personages uit hun isolement stijgen via het lezen. Tandenjager is uiteindelijk een van de boeken van het jaar geworden. Het is moerassig, verfijnd, geheel in de slijk van oorlogen en de geparfumeerde poeders van de elite gedrenkt, en na het laatste hoofdstuk besef je dat Hulst in zijn laatste romans zo heerlijk roekeloos gokt met gedurfde verhaallijnen die in zijn handen toch altijd vol zeggingskracht zitten. 
 
-Er was ook taart, en ik zou nu een mopje kunnen maken over hoe dat slecht is voor de tanden maar dat zou beneden mijn hoge humoristische standaarden zijn.
+Er was ook taart, en ik zou daar een mopje over kunnen maken (hoe dat slecht is voor de tanden) maar ik houd mij in.
