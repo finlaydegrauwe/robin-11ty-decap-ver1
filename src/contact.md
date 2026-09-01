@@ -3,16 +3,14 @@ layout: default
 ---
 Waar kan je me voor boeken:
 
-* Hiervoor
-* En hiervoor
-* En ook hiervoorsdfs
+* Interviews met auteurs
+* Voordrachten over boeken, auteurs
+* Artikels schrijven
 
-Robin Van der Plaetsen
+
 
 robinvanderplaetsen@mailfence.com
 
-telefoonnummer 04 ziede van hier
-
 [robin insta](https://instagram.com/)
 
-**btw nummer**
+BTW-nummer: BE1008.268.577
