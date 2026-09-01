@@ -1,7 +1,7 @@
 ---
 thumbnail: /static/img/016_diane-broeckhoven_een-dag.jpg
 title: Diane Broeckhoven over Een Dag als een andere
-description: Geluk is een Triple d'Anvers drinken in Antwerpen Centraal?
+description: Een Triple d'Anvers achterover slaan in Antwerpen Centraal
 interviewee: Diane Broeckhoven
 locatie: Boekhandel Walry
 date: 2024-11-30T13:03:00.000+01:00
