@@ -1,8 +1,9 @@
 ---
 thumbnail: /static/img/010_lara-taveirne_wolf.jpg
-title: 010_lara-taveirne_wolf
+title: Lara Taveirne over Wolf
 description: Een monument voor een broer
 interviewee: Lara Taveirne
+locatie: Boekhandel Walry
 date: 2024-11-07T20:00:00.000+01:00
 galleryImages:
   - image: /static/img/img_20241107_204553.jpg
