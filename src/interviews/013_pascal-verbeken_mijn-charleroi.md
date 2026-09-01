@@ -3,13 +3,12 @@ thumbnail: /static/img/013_pascal-verbeken_mijn-charleroi.jpg
 title: Pascal Verbeken over Mijn Charleroi
 description: De stad van de zestig bergen
 interviewee: Pascal Verbeken
+locatie: Boekhandel Walry
 date: 2024-12-17T20:00:00.000+01:00
 galleryImages:
   - image: /static/img/img_20241127_102550-1-.jpg
     alt: Pascal Verbeken over Mijn Charleroi
   - image: /static/img/img_20250329_113943.jpg
-    alt: Pascal Verbeken over Mijn Charleroi
-  - image: /static/img/img_20241127_122608.jpg
     alt: Pascal Verbeken over Mijn Charleroi
   - image: /static/img/img_20241127_122608.jpg
     alt: Pascal Verbeken over Mijn Charleroi
