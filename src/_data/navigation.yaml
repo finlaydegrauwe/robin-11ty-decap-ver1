@@ -1,14 +1,13 @@
----
 items:
   - text: interviews
-    url: "/interviews"
+    url: /interviews
   - text: contact
-    url: "/contact"
+    url: /contact
   - text: toekomstig
-    url: "/toekomstig"
+    url: /toekomstig
   - text: schrijver
-    url: "/schrijfsels"
-  - text: strapatsen
-    url: "/strapatsen"
+    url: /schrijfsels
+  - text: Debuutroman "Toewerken naar mijn overbodigheid"
+    url: /Debuutroman "Toewerken naar mijn overbodigheid"
   - text: kaart
-    url: "/kaart"
+    url: /kaart
