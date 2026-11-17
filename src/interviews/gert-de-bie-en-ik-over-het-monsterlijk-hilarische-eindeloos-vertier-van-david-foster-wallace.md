@@ -4,7 +4,8 @@ title: Gert De Bie en ik over het monsterlijk hilarische Eindeloos vertier van
   David Foster Wallace
 description: Wat voetnoot 22 in Eindeloos Vertier te zeggen heeft over het hele boek
 interviewee: Robin Van der Plaetsen en Gert De Bie
-locatie: Boekhandel Walry in Gent, en De Hnita in Heist-op-den-Berg
+locatie: Boekhandel Walry in Gent, De Hnita in Heist-op-den-Berg, Boekhandel De
+  Slegte in Antwerpen
 date: 2026-06-02T20:00:00.000+02:00
 galleryImages:
   - image: /static/img/messenger_creation_a0b72166-57ab-476f-8062-e66b53bca859.jpeg
@@ -27,7 +28,9 @@ galleryImages:
     alt: Eindeloos vertier
 tags: interviews
 ---
-Een grenzeloze grol, een eindeloos vertier, er waren wel meer titels waar vertaler Robert-Jan Henkes aan dacht toen hij Infinite Jest, het notoire boek van de Amerikaanse schrijver annex ex-proftennisser David Foster Wallace, vertaalde. Meer dan duizend pagina's en een dikke achthonderd voetnoten telt het boek. Dertig jaar zijn gepasseerd sinds het origineel en nu ligt daar dan de Nederlandse vertaling. Samen met collega boekhandelaar Gert De Bie zette ik een op het breinsplijtende boek gebaseerde theatervoorstelling op poten die geheel uit voetnoten, lol en sérieux bestond. Een heuse setlist eigenlijk! Dat alles onder de noemer "Wie is bang van Eindeloos Vertier?", voorgedragen in juni in Gent en Heist-op-den-Berg
+Een grenzeloze grol, een eindeloos vertier, er waren wel meer titels waar vertaler Robert-Jan Henkes aan dacht toen hij Infinite Jest, het notoire boek van de Amerikaanse schrijver annex ex-proftennisser David Foster Wallace, vertaalde. Meer dan duizend pagina's en een dikke achthonderd voetnoten telt het boek. Dertig jaar zijn gepasseerd sinds het origineel en nu ligt daar dan de Nederlandse vertaling. Samen met collega boekhandelaar Gert De Bie zette ik een op het breinsplijtende boek gebaseerde theatervoorstelling op poten die geheel uit voetnoten, lol en sérieux bestond. Een heuse setlist eigenlijk! Dat alles onder de noemer "Wie is bang van Eindeloos Vertier?", voorgedragen in juni in Gent en Heist-op-den-Berg, en in november in Antwerpen voor het 'boektopia on tour' festival:
+
+[Gert De Bie en Robin Van der Plaetsen over Eindeloos vertier - Boektopia](https://www.boektopia.be/boektopia-op-toer-activiteiten/david-foster-wallace)
 
 We praatten en performden over verslaving, entertainment, schoonheid, en de grenzeloze vindingrijkheid van dit tragisch lollige boek: 
 
@@ -42,8 +45,6 @@ Je bent thuis, mijmert, bedenkt welke waarheden in die dikke kanjers vervat zit.
 Eindeloos vertier is zo’n boek waarbij de ziekte van Joyce volgens marktonderzoek in 82 procent van de gevallen optreedt, vanuit die bevinding  blijkt dus dat 4 op 5 onder jullie angst heeft voor dit boek. Toch hoeven jullie niet te vrezen vanavond, want wie anders dan de boekhandelaar kan de diagnose verlichten en jullie summier door het boek loodsen? In dit jaar van de Biscoff-côte d’Or heerlijke chocoladereep waarin ook de O.N.A.N. meer en meer werkelijkheid lijkt te worden, ligt na 30 jaar de Nederlandse vertaling in de winkel. Wij willen jullie, met een contract waar aansprakelijkheid voor polsletsels wordt afgewezen, en met jullie volle medewerking laten genieten van een avond vol aandacht, afleidingen tennisballen zo geel als de eerste druk van de vertaling van Infinite Jest.
 
 Geniet van de voorstelling. 
-
-
 
 Gert De Bie gaf een crashcourse Literaire Verwijzingen in de roman, en we hielden een panelgesprek over verslaving en entertainment (en hun overlappingen), alvorens ikzelf verkleed als Voetnoot 22 uit de roman volgende tekst voordroeg: 
 
@@ -66,8 +67,6 @@ Als voetnoot 22 sta ik voor twee zaken die heel belangrijk zijn in het boek: afl
 ps: Wist u dat er in mijn flesje helemaal geen Seldanepillen zitten? Het is bedrog. Het is van kamergenoot Pemulis afgesnoepte Tenuate capsules die Troeltsch in het volle daglicht verstopt door het in een flesje Seldane te stoppen. Geniaal! Wilt u meer weten over Tenuate? Dat valt buiten mijn voetnootbevoegdheid, maar ik verwijs u graag door naar een collega
 
 \----------------------------------------------------------------------------
-
-
 
 Daar stopte het niet, want ik was ook zeer geïnspireerd door het Eschaton-spel dat in het boek op de tenniscampus wordt gespeeld. En als coach trad ik op: 
 
@@ -112,7 +111,5 @@ Als alle berekeningen zijn gemaakt en een natie(agglomeraat) als winnaar uit de 
 Ik dank jullie. Volgende week leer ik jullie hoe je doelgericht moet lobben. Vergeet dus jullie racket en goede luim niet. 
 
 \-----------------------------------------------------------------------
-
-
 
 Ik zou nu verder kunnen praten over deze twee wonderlijke avonden, maar mijn tekst is nu al schandalig lang voor deze simpele websitepost.
